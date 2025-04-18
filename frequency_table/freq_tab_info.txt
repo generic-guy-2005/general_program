@@ -1,0 +1,12 @@
+File: freq_tab.py
+Language: Python
+Level: Basic
+
+Description:
+Create basic frequency distribution table used in statistics
+
+Improvement:
+- Table view
+- User input
+- File input
+- File export
